@@ -15,9 +15,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/inmyjs/egg-ueditor.git"
+    "url": "https://github.com/zhouyangit/egg-ueditor.git"
   },
-  "homepage": "https://github.com/inmyjs/egg-ueditor",
+  "homepage": "hhttps://github.com/zhouyangit/egg-ueditor",
   "keywords": [
     "egg",
     "nodejs",
