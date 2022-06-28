@@ -1,10 +1,10 @@
-# egg-ueditor
+# egg-ueditor-feat
 基于egg的UEditor百度编辑器后端实现，支持图片/文件上传、列表及图片远程抓取
 
 ### 安装
 
 ```
- npm install egg-ueditor --save
+ npm install egg-ueditor-feat --save
 ```
 
 ### 使用方法
@@ -13,7 +13,7 @@
 1. 在app/router.js中如下使用
 ```javascript
 
-const ueditor = require('egg-ueditor')
+const ueditor = require('egg-ueditor-feat')
 
 app.all('/ueditor', ueditor())
 ```
