@@ -1,5 +1,5 @@
 {
-  "name": "egg-ueditor",
+  "name": "egg-ueditor-feat",
   "version": "1.1.0",
   "description": "基于egg的UEditor百度编辑器后端实现，支持图片/文件上传、列表及图片远程抓取",
   "main": "index.js",
